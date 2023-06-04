@@ -120,7 +120,7 @@ plt.show()
 ![Screenshot 2023-06-04 104304](https://github.com/dhivyapriyar/Ex-08-Data-Visualization_1/assets/119477552/56b3df4b-711b-4e16-82a2-c0c7fd45ee20)
 ![Screenshot 2023-06-04 104313](https://github.com/dhivyapriyar/Ex-08-Data-Visualization_1/assets/119477552/6da5d577-6eed-42d0-b556-90770ab29fd9)
 
-#RESULT
+# RESULT
 
 Thus the Data Visualization method is performed to the given data and to predict the outcome for the given questions.
 
